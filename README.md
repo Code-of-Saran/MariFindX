@@ -339,3 +339,38 @@ Used deliberately: *Potential Oil Spill*, *Probable Origin*, *Simulated Drift*,
 
 Never: *Confirmed Source*, *Confirmed Culprit*, *Legally Responsible Vessel*.
 "# MariFindX" 
+<h2>Prediction Results</h2>
+
+<h3>2D Predictions</h3>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/2d-1.png" width="450">
+    </td>
+    <td align="center">
+      <img src="screenshots/2d-2.png" width="450">
+    </td>
+  </tr>
+</table>
+
+<h3>3D Predictions</h3>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/3d-1.png" width="300">
+    </td>
+    <td align="center">
+      <img src="screenshots/3d-2.png" width="300">
+    </td>
+    <td align="center">
+      <img src="screenshots/3d-3.png" width="300">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/3d-4.png" width="300">
+    </td>
+  </tr>
+</table>
